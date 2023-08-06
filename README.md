@@ -11,5 +11,7 @@ Insights from Data Analysis:
 During our data exploration phase, we made the following observations:
 
 Most Common Ratings: The most frequent rating given by users is 4, followed by 3. The highest rating, 5, comes in third place.
+
 Popular Genres: Comedy, drama, thriller, and action are the most prevalent genres among the movies in the dataset.
 By leveraging these insights, we aim to build an effective content-based recommendation system that suggests movies based on their genres and user preferences. Such a system can help users discover movies that align with their interests and enhance their overall movie-watching experience.
+
